@@ -1,0 +1,1 @@
+Part 1: Groq Chatbot Installation Process- 1. Create Project Folder (e.g. Python-Project/)- 2. Create & Save .env file: GROQ_API_KEY=your_groq_key_here- 3. Install Required Libraries: pip install requests python-dotenv gradio- 4. Create chatbot.py with Groq logic- 5. Create main.py for Terminal CLI Chatbot- 6. (Optional) GUI Chatbot using Gradio
